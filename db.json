@@ -1,0 +1,168 @@
+{
+  "dashboard": {
+    "overview": {
+      "value": {
+        "totalTrading": 292,
+        "totalTradingRate": 52,
+        "totalRevenue": 44,
+        "totalRevenueRate": 62,
+        "totalOrder": 4,
+        "totalOrderRate": 72,
+        "totalUser": 0,
+        "totalUserRate": 44,
+        "dayCompareRate": 12
+      },
+      "isSuccess": true,
+      "isFailure": false,
+      "error": {
+        "code": "",
+        "message": ""
+      }
+    },
+    "order": {
+      "value": {
+        "lastSevenDays": [
+          {
+            "totalOfOrder": 32,
+            "totalTradingAmount": 0,
+            "revenue": 0,
+            "pending": 0,
+            "confirmed": 0,
+            "deliverying": 0,
+            "successful": 12,
+            "failed": 1,
+            "cancelled": 1
+          },
+          {
+            "totalOfOrder": 45,
+            "totalTradingAmount": 0,
+            "revenue": 0,
+            "pending": 0,
+            "confirmed": 0,
+            "deliverying": 0,
+            "successful": 14,
+            "failed": 2,
+            "cancelled": 1
+          },
+          {
+            "totalOfOrder": 32,
+            "totalTradingAmount": 0,
+            "revenue": 0,
+            "pending": 0,
+            "confirmed": 0,
+            "deliverying": 0,
+            "successful": 15,
+            "failed": 1,
+            "cancelled": 2
+          },
+          {
+            "totalOfOrder": 34,
+            "totalTradingAmount": 0,
+            "revenue": 0,
+            "pending": 0,
+            "confirmed": 0,
+            "deliverying": 0,
+            "successful": 20,
+            "failed": 1,
+            "cancelled": 1
+          },
+          {
+            "totalOfOrder": 52,
+            "totalTradingAmount": 0,
+            "revenue": 0,
+            "pending": 0,
+            "confirmed": 0,
+            "deliverying": 0,
+            "successful": 14,
+            "cancelled": 0,
+            "failed": 2
+          },
+          {
+            "totalOfOrder": 41,
+            "totalTradingAmount": 0,
+            "revenue": 0,
+            "pending": 0,
+            "confirmed": 0,
+            "deliverying": 0,
+            "successful": 20,
+            "cancelled": 0,
+            "failed": 1
+          },
+          {
+            "totalOfOrder": 31,
+            "totalTradingAmount": 0,
+            "revenue": 0,
+            "pending": 2,
+            "confirmed": 2,
+            "deliverying": 5,
+            "successful": 12,
+            "cancelled": 1,
+            "failed": 1
+          }
+        ]
+      },
+      "isSuccess": true,
+      "isFailure": false,
+      "error": {
+        "code": "",
+        "message": ""
+      }
+    },
+    "revenue": {
+      "thisYear": 2024,
+      "lastYear": 2023,
+      "totalOfThisYear": 120000000,
+      "totalOfLastYear": 80000000,
+      "twelveMonthRevenue": [
+        {
+          "thisYear": 31000000,
+          "lastYear": 11000000
+        },
+        {
+          "thisYear": 40000000,
+          "lastYear": 32000000
+        },
+        {
+          "thisYear": 28000000,
+          "lastYear": 45000000
+        },
+        {
+          "thisYear": 51000000,
+          "lastYear": 32000000
+        },
+        {
+          "thisYear": 42000000,
+          "lastYear": 34000000
+        },
+        {
+          "thisYear": 80000000,
+          "lastYear": 52000000
+        },
+        {
+          "thisYear": 100000000,
+          "lastYear": 41000000
+        },
+        {
+          "thisYear": 90000000,
+          "lastYear": 31000000
+        },
+        {
+          "thisYear": 85000000,
+          "lastYear": 40000000
+        },
+        {
+          "thisYear": 80000000,
+          "lastYear": 28000000
+        },
+        {
+          "thisYear": 90000000,
+          "lastYear": 51000000
+        },
+        {
+          "thisYear": 87000000,
+          "lastYear": 42000000
+        }
+      ]
+    }
+  }
+}
