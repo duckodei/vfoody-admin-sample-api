@@ -27,7 +27,6 @@
           "revenue": 0,
           "pending": 0,
           "confirmed": 0,
-          "preparing": 0,
           "deliverying": 0,
           "successful": 12,
           "rejected": 1,
@@ -40,7 +39,6 @@
           "revenue": 0,
           "pending": 0,
           "confirmed": 0,
-          "preparing": 0,
           "deliverying": 0,
           "successful": 14,
           "rejected": 1,
@@ -57,7 +55,6 @@
           "successful": 15,
           "failed": 1,
           "cancelled": 2,
-          "preparing": 0,
           "rejected": 0
         },
         {
@@ -70,7 +67,7 @@
           "successful": 20,
           "failed": 1,
           "cancelled": 1,
-          "preparing": 0,
+
           "rejected": 0
         },
         {
@@ -83,7 +80,7 @@
           "successful": 14,
           "cancelled": 0,
           "failed": 2,
-          "preparing": 0,
+
           "rejected": 0
         },
         {
@@ -96,7 +93,7 @@
           "successful": 20,
           "cancelled": 0,
           "failed": 1,
-          "preparing": 0,
+
           "rejected": 0
         },
         {
@@ -109,7 +106,7 @@
           "successful": 12,
           "cancelled": 1,
           "failed": 1,
-          "preparing": 0,
+
           "rejected": 0
         }
       ]
@@ -122,59 +119,67 @@
     }
   },
   "revenue": {
-    "thisYear": 2024,
-    "lastYear": 2023,
-    "totalOfThisYear": 120000000,
-    "totalOfLastYear": 80000000,
-    "twelveMonthRevenue": [
-      {
-        "thisYear": 31000000,
-        "lastYear": 11000000
-      },
-      {
-        "thisYear": 40000000,
-        "lastYear": 32000000
-      },
-      {
-        "thisYear": 28000000,
-        "lastYear": 45000000
-      },
-      {
-        "thisYear": 51000000,
-        "lastYear": 32000000
-      },
-      {
-        "thisYear": 42000000,
-        "lastYear": 34000000
-      },
-      {
-        "thisYear": 80000000,
-        "lastYear": 52000000
-      },
-      {
-        "thisYear": 100000000,
-        "lastYear": 41000000
-      },
-      {
-        "thisYear": 90000000,
-        "lastYear": 31000000
-      },
-      {
-        "thisYear": 85000000,
-        "lastYear": 40000000
-      },
-      {
-        "thisYear": 80000000,
-        "lastYear": 28000000
-      },
-      {
-        "thisYear": 90000000,
-        "lastYear": 51000000
-      },
-      {
-        "thisYear": 87000000,
-        "lastYear": 42000000
-      }
-    ]
+    "value": {
+      "thisYear": 2024,
+      "lastYear": 2023,
+      "totalOfThisYear": 120000000,
+      "totalOfLastYear": 80000000,
+      "twelveMonthRevenue": [
+        {
+          "thisYear": 31000000,
+          "lastYear": 11000000
+        },
+        {
+          "thisYear": 40000000,
+          "lastYear": 32000000
+        },
+        {
+          "thisYear": 28000000,
+          "lastYear": 45000000
+        },
+        {
+          "thisYear": 51000000,
+          "lastYear": 32000000
+        },
+        {
+          "thisYear": 42000000,
+          "lastYear": 34000000
+        },
+        {
+          "thisYear": 80000000,
+          "lastYear": 52000000
+        },
+        {
+          "thisYear": 100000000,
+          "lastYear": 41000000
+        },
+        {
+          "thisYear": 90000000,
+          "lastYear": 31000000
+        },
+        {
+          "thisYear": 85000000,
+          "lastYear": 40000000
+        },
+        {
+          "thisYear": 80000000,
+          "lastYear": 28000000
+        },
+        {
+          "thisYear": 90000000,
+          "lastYear": 51000000
+        },
+        {
+          "thisYear": 87000000,
+          "lastYear": 42000000
+        }
+      ]
+    },
+    "isSuccess": true,
+    "isFailure": false,
+    "error": {
+      "code": "",
+      "message": ""
+    }
   }
 }
