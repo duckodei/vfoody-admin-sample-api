@@ -20,7 +20,7 @@
   },
   "order": {
     "value": {
-      "lastSevenDays": [
+      "week": [
         {
           "totalOfOrder": 32,
           "totalTradingAmount": 0,
