@@ -27,8 +27,10 @@
           "revenue": 0,
           "pending": 0,
           "confirmed": 0,
+          "preparing": 0,
           "deliverying": 0,
           "successful": 12,
+          "rejected": 1,
           "failed": 1,
           "cancelled": 1
         },
@@ -38,8 +40,10 @@
           "revenue": 0,
           "pending": 0,
           "confirmed": 0,
+          "preparing": 0,
           "deliverying": 0,
           "successful": 14,
+          "rejected": 1,
           "failed": 2,
           "cancelled": 1
         },
@@ -52,7 +56,9 @@
           "deliverying": 0,
           "successful": 15,
           "failed": 1,
-          "cancelled": 2
+          "cancelled": 2,
+          "preparing": 0,
+          "rejected": 0
         },
         {
           "totalOfOrder": 34,
@@ -63,7 +69,9 @@
           "deliverying": 0,
           "successful": 20,
           "failed": 1,
-          "cancelled": 1
+          "cancelled": 1,
+          "preparing": 0,
+          "rejected": 0
         },
         {
           "totalOfOrder": 52,
@@ -74,7 +82,9 @@
           "deliverying": 0,
           "successful": 14,
           "cancelled": 0,
-          "failed": 2
+          "failed": 2,
+          "preparing": 0,
+          "rejected": 0
         },
         {
           "totalOfOrder": 41,
@@ -85,7 +95,9 @@
           "deliverying": 0,
           "successful": 20,
           "cancelled": 0,
-          "failed": 1
+          "failed": 1,
+          "preparing": 0,
+          "rejected": 0
         },
         {
           "totalOfOrder": 31,
@@ -96,7 +108,9 @@
           "deliverying": 5,
           "successful": 12,
           "cancelled": 1,
-          "failed": 1
+          "failed": 1,
+          "preparing": 0,
+          "rejected": 0
         }
       ]
     },
