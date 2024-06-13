@@ -1,13 +1,13 @@
 {
   "overview": {
     "value": {
-      "totalTrading": 292,
+      "totalTrading": 292000000,
       "totalTradingRate": 52,
-      "totalRevenue": 44,
+      "totalRevenue": 44000000,
       "totalRevenueRate": 62,
-      "totalOrder": 4,
+      "totalOrder": 1052,
       "totalOrderRate": 72,
-      "totalUser": 0,
+      "totalUser": 2152,
       "totalUserRate": 44,
       "dayCompareRate": 12
     },
